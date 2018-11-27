@@ -1,0 +1,24 @@
+body{
+	margin: 0px;
+
+}
+
+table{
+	text-align: center;
+
+}
+h2{
+	text-align: center;
+}
+hr{
+	border: 2px dashed black;
+}
+
+#submit input{
+margin-left: 40%;
+margin-top: 10px;
+margin-bottom: 10px;
+height: 30px;
+background-color: lightgray;
+
+}
